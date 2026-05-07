@@ -31,15 +31,15 @@ function getThemeColor(theme) {
   const colors = {
     health: "#2E8B57",
     food: "#2E8B57",
-    life: "#178CA4",
-    cleaning: "#178CA4",
-    tech: "#3F51B5",
+    life: "#B45309",
+    cleaning: "#14B8A6",
+    tech: "#4F46E5",
     finance: "#243B6B",
-    policy: "#1F6FEB",
-    education: "#2E7D32",
+    policy: "#475569",
+    education: "#6D28D9",
     purple: "#6A4C93",
     green: "#2E8B57",
-    blue: "#178CA4",
+    blue: "#2563EB",
     navy: "#243B6B",
   };
 

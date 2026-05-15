@@ -5,6 +5,10 @@
     "sharp": "^0.34.5"
   },
   "scripts": {
-    "thumb": "node make-thumbnail.js"
+    "thumb": "node ./scripts/make-thumbnail.js",
+    "figure": "node ./scripts/figure.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
   }
 }
